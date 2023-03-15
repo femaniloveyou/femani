@@ -1,33 +1,43 @@
 {
     "One": {
         "A": {
+            "L":"",
             "isT": true
         },
         "B": {
+             "L":"",
             "isT": false
         },
         "C": {
+             "L":"",
             "isT": false
         },
         "D": {
+             "L":"",
             "isT": false
         },
         "E": {
+             "L":"",
             "isT": false
         },
         "F": {
+             "L":"",
             "isT": true
         },
         "G": {
+             "L":"",
             "isT": false
         },
         "H": {
+             "L":"",
             "isT": false
         },
         "I": {
+             "L":"",
             "isT": false
         },
         "J": {
+            "L":"",
             "isT": true
         }
     }
