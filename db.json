@@ -1,54 +1,34 @@
 {
     "One": {
         "A": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": true
         },
         "B": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "C": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "D": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "E": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "F": {
-            "U": "",
-            "isT": true,
-            "isJ": false
+            "isT": true
         },
         "G": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "H": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "I": {
-            "U": "",
-            "isT": false,
-            "isJ": false
+            "isT": false
         },
         "J": {
-            "U": "",
-            "isT": true,
-            "isJ": false
+            "isT": true
         }
     }
 }
